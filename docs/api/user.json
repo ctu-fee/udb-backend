@@ -1,0 +1,27 @@
+{
+    "id" : 1001,
+    "username" : "testuser",
+    "first_name" : "Test",
+    "last_name" : "User",
+    "full_name" : "Ing. Test User",
+    "email" : "test.user@example.com",
+    "employee_type" : "engineer",
+    "status" : "active",
+    "photo_url" : "https://example.com/photo/id/1001",
+    "work_phone" : [
+        "+420-111-222-333"
+    ],
+    "room" : [
+        "Praha 6, Zikova 4, B2-340"
+    ],
+    "email_forwarding" : [],
+    "email_alternative" : [],
+    "card_id" : [],
+    "myfare_id" : [],
+
+    "_links" : {
+        "self" : {
+            "href" : "/users/1001"
+        }
+    }
+}
