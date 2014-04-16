@@ -3,4 +3,8 @@
 .settings
 composer.lock
 public/.htaccess
-vendor/*
+vendor/
+public/vendor/
+config/development.config.php
+config/autoload/local.php
+config/autoload/*.local.php
